@@ -1,8 +1,6 @@
 # informes power bi
 
-## 
-
-Dashboard ventas de video juegos por regiones
+## Dashboard ventas de video juegos por regiones
 
 ![alt text](image.png)  
 
@@ -11,3 +9,5 @@ Dashboard ventas de video juegos por regiones
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+![alt text](image-4.png)
